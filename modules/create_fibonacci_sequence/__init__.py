@@ -1,0 +1,2 @@
+from modules.create_fibonacci_sequence.calculete_fibonacci_sequence import calculate_sequence
+from modules.create_fibonacci_sequence.locate_number_of_sequence import find_index_of_num
